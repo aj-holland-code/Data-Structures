@@ -1,6 +1,7 @@
 // Singly Linked List
 // ------------------
 // 
+// This is a C++ implementation of a singly linked list.
 //
 // The Special Member Functions
 // ----------------------------
